@@ -35,7 +35,7 @@ sudo apt-get install -y libjpeg-dev zlib1g-dev cmake libffi-dev protobuf-compile
 
 ######################################################################
 # upgrade pip
-pip3 install --no-input --upgrade pip setuptools
+#pip3 install --no-input --upgrade pip setuptools
 
 ######################################################################
 echo "installing pytorch - use the applopriate index-url from https://pytorch.org/get-started/locally/"
